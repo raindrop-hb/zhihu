@@ -6,8 +6,6 @@
     <a href="https://jq.qq.com/?_wv=1027&k=fzhZMSbP"><img alt="QQ群" src="https://img.shields.io/badge/QQ-交流群-blackviolet"/></a>
 </p>
 
-通过360小说网，使用xpath解析知乎小说
-
 ![image](https://github.com/raindrop-hb/zhihu/assets/72308008/4c1085c5-f3a9-47d5-86f8-4ec0457f6513)
 
 ![image](https://github.com/raindrop-hb/zhihu/assets/72308008/013b654e-be89-4d24-a00a-b20ff324fa37)
