@@ -9,17 +9,20 @@
 通过360小说网，使用xpath解析知乎小说
 
 ![image](https://github.com/raindrop-hb/zhihu/assets/72308008/4c1085c5-f3a9-47d5-86f8-4ec0457f6513)
+
 ![image](https://github.com/raindrop-hb/zhihu/assets/72308008/013b654e-be89-4d24-a00a-b20ff324fa37)
 
 ## 操作方法
 先在知乎搜索推书的给你的书名，这些书名都是推书的自己生成的。
 
 搜索之后看小说的专栏
+
 ![{6_`MFGH%F@}FMDQNHXO9J1_tmb](https://github.com/raindrop-hb/zhihu/assets/72308008/cd09b39e-ac3a-4262-885f-42a3437e1b4a)
 
 如果没有，说明你搜到的是回答（有的作者喜欢这样恶心人）
 
 那就点开他的主页，看个人作品，那个就是专栏，然后在专栏里找到书名
+
 ![~MIZJH5_V WG7D4CH$7_SKB_tmb](https://github.com/raindrop-hb/zhihu/assets/72308008/4f3fe28f-76f4-400f-8653-832b29cbe10b)
 
 对比一下能找到
